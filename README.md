@@ -34,7 +34,7 @@
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href="https://www.python.org" target="_blank"> 
-        <img src ="https://cursosciatec.com.br/home/wp-content/uploads/2020/02/img-icone-python_Prancheta-1.png" alt =" python "width =" 40 "height =" 40 "/> 
+        <img src ="https://img.icons8.com/color/452/python.png" alt =" python "width =" 40 "height =" 40 "/> 
     </a> 
 </p>
 
