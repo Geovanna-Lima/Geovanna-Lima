@@ -10,10 +10,10 @@
 <h3 align = "left"> 📱 Contato</h3>
 <hr>
 <p align = "center">
-    <a style="text-decoration: none;" href="https://https://codepen.io/geovanna-lima" target="blank"> 
+    <a style="text-decoration: none;" href="https://codepen.io/geovanna-lima" target="_blank"> 
         <img align = "center" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png" alt ="geovannalima" height ="40" width ="40" /> 
     </a>
-    <a style="text-decoration: none;" href = "https://www.linkedin.com/in/geovanna-s-lima/" target = "em branco"> 
+    <a style="text-decoration: none;" href = "https://www.linkedin.com/in/geovanna-s-lima/" target = "_blank"> 
         <img align = "center" src = "https://image.flaticon.com/icons/png/512/174/174857.png"alt ="geovannalima" height ="40" width ="40"/> 
     </a>
 </p>
