@@ -1,7 +1,7 @@
 <!--
 **Geovanna-Lima/Geovanna-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align = "center">👋🏼 Oie Desenvolvedor(a)!!!</h1>
+<h1 align = "center">Oie Desenvolvedor(a)!!! 👋🏼 </h1>
 
 <img src="https://user-images.githubusercontent.com/71272198/120073460-c771ed80-c06e-11eb-8da8-9f3d384fd0b4.png" alt="Avatar">
 
