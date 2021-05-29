@@ -2,7 +2,8 @@
 **Geovanna-Lima/Geovanna-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align = "center">👋🏼 Oie Desenvolvedor(a)!!!</h1>
-<img src="https://user-images.githubusercontent.com/71272198/120073407-7eba3480-c06e-11eb-842e-bf9c00c019f7.png" alt="Avatar">
+
+<img src="https://user-images.githubusercontent.com/71272198/120073460-c771ed80-c06e-11eb-8da8-9f3d384fd0b4.png" alt="Avatar">
 
 <p> Eu sou a <strong>Geovanna</strong>, tenho 17 anos e sou estudante de Informática no Instituto Federal de Ciência e Tecnologia de São Paulo. Iniciei meu curso em 2019, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A aparte que mais me interesso atualmente é a parte de front-end e futuramente pretendo atuar nessa área.</p>
 
