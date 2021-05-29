@@ -55,7 +55,7 @@
     </a> 
 </p>
 
-<h3 align = "left">👩🏻‍💻 Meu GitHub </h3>
+<h3 align = "left">💻 Informações sobre meu GitHub </h3>
 <hr>
 <p align = "center">
     <a href="https://github.com/Pamela-Carvalho">
