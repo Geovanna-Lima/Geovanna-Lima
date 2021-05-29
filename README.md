@@ -3,7 +3,7 @@
 -->
 
 <h1 align = "center">👋🏼 Oie desenvolvedor(a)!!!</h1>
-<img align="right" src="https://github.com/Pamela-Carvalho/Pamela-Carvalho/blob/main/avatar.png?raw=true" alt="Avatar">
+<img src="https://github.com/Pamela-Carvalho/Pamela-Carvalho/blob/main/avatar.png?raw=true" alt="Avatar">
 <p> Eu sou a <strong>Geovanna</strong>, tenho 17 anos e sou estudante de Informática no Instituto Federal de Ciência e Tecnologia de São Paulo. Iniciei meu curso em 2019, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A aparte que mais me interesso atualmente é a parte de front-end e futuramente pretendo atuar nessa área.</p>
 
 <h3 align = "left"> 📱 Contato</h3>
