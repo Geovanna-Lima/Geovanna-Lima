@@ -58,16 +58,14 @@
 <h3 align = "left">💻 Informações sobre meu GitHub </h3>
 <hr>
 <p align = "center">
-    <a href="https://github.com/Pamela-Carvalho">
-        <img align="center" alt="Pamela's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pamela-Carvalho&show_icons=true&theme=radical" />
+    <a href="https://github.com/Geovanna-Lima">
+        <img align="center" alt="Geovanna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Geovanna-Lima&show_icons=true&theme=radical" />
     </a>
     <a href="https://github.com/Pamela-Carvalho">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pamela-Carvalho&theme=radical" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Geovanna-Lima&theme=radical" />
     </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geovanna-Lima&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanna-Lima&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
