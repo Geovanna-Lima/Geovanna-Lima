@@ -35,7 +35,7 @@
     </a> 
 </p>
 
-<h3 align = "left">👩🏻‍🎓 Estudando atualmente</h3>
+<h3 align = "left">📚 Estudando atualmente</h3>
 <hr>
 <p align = "center">
     <a style="text-decoration: none;" href = "https://www.w3schools.com/cs/" target = "_ blank"> 
