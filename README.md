@@ -1,7 +1,7 @@
 <!--
 **Geovanna-Lima/Geovanna-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align = "center">Olá, Desenvolvedor(a)!!! 👋🏼 </h1>
+<h1 align = "center">Oie Desenvolvedor(a)!!! 👋🏼 </h1>
 
 <img src="https://user-images.githubusercontent.com/71272198/120073460-c771ed80-c06e-11eb-8da8-9f3d384fd0b4.png" alt="Avatar">
 
@@ -33,6 +33,9 @@
     <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
     </a> 
+    <a style="text-decoration: none;" href="https://www.python.org" target="_blank"> 
+        <img src ="https://cursosciatec.com.br/home/wp-content/uploads/2020/02/img-icone-python_Prancheta-1.png" alt =" python "width =" 40 "height =" 40 "/> 
+    </a> 
 </p>
 
 <h3 align = "left">👩🏻‍🎓 Estudando atualmente</h3>
@@ -55,7 +58,7 @@
     </a> 
 </p>
 
-<h3 align = "left">💻 Informações sobre meu GitHub </h3>
+<h3 align = "left">💻 Informações do meu GitHub </h3>
 <hr>
 <p align = "center">
     <a href="https://github.com/Geovanna-Lima">
