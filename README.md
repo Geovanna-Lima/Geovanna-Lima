@@ -54,7 +54,7 @@
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt =" php "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href="https://pt-br.reactjs.org" target =" _ blank "> 
-        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt =" react "width =" 40 "height =" 40 "/> 
+        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt =" react "width =" 40 "height =" 50 "/> 
     </a> 
 </p>
 
