@@ -53,8 +53,8 @@
     <a style="text-decoration: none;" href="https://www.php.net "target =" _ blank "> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt =" php "width =" 40 "height =" 40 "/> 
     </a> 
-    <a style="text-decoration: none;" href="https://www.php.net "target =" _ blank "> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt =" elixir "width =" 40 "height =" 40 "/> 
+    <a style="text-decoration: none;" href="https://pt-br.reactjs.org" target =" _ blank "> 
+        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png "alt =" react "width =" 40 "height =" 40 "/> 
     </a> 
 </p>
 
@@ -68,8 +68,3 @@
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Geovanna-Lima&theme=radical" />
     </a>
 </p>
-
-
-
-
-
