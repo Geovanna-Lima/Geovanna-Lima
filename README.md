@@ -64,7 +64,7 @@
     <a href="https://github.com/Geovanna-Lima">
         <img align="center" alt="Geovanna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Geovanna-Lima&show_icons=true&theme=radical" />
     </a>
-    <a href="https://github.com/Pamela-Carvalho">
+    <a href="https://github.com/Geovanna-Lima">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Geovanna-Lima&theme=radical" />
     </a>
 </p>
