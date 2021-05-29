@@ -50,12 +50,12 @@
     <a style="text-decoration: none;" href="https://desenvolvedor.mozilla.org/en-US/docs/Web/JavaScript "target =" _ blank "> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
     </a> 
-    <a style="text-decoration: none;" href="https://www.php.net "target =" _ blank "> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt =" php "width =" 40 "height =" 40 "/> 
-    </a> 
     <a style="text-decoration: none;" href="https://pt-br.reactjs.org" target =" _ blank "> 
         <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt =" react "width =" 50 "height =" 35 "/> 
     </a> 
+    <a style="text-decoration: none;" href="https://www.php.net "target =" _ blank "> 
+        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt =" php "width =" 40 "height =" 40 "/> 
+    </a>  
 </p>
 
 <h3 align = "left">💻 Informações do meu GitHub </h3>
