@@ -28,7 +28,7 @@
         <img  src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt =" css3 "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href ="https://www.w3.org/html/ "target =" _ blank "> 
-        <img src ="https://user-images.githubusercontent.com/71272198/120074076-8a5b2a80-c071-11eb-80a9-afedbcd7c69a.png"alt =" html5 "width =" 40 "height =" 40 "/> 
+        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
