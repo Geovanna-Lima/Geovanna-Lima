@@ -69,5 +69,5 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/rafaballerini/Geovanna-Lima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Geovanna-Lima/Geovanna-Lima/blob/output/github-contribution-grid-snake.svg)
 
