@@ -68,3 +68,6 @@
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Geovanna-Lima&theme=radical" />
     </a>
 </p>
+
+![Snake animation](https://github.com/rafaballerini/Geovanna-Lima/blob/output/github-contribution-grid-snake.svg)
+
