@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/71272198/120073460-c771ed80-c06e-11eb-8da8-9f3d384fd0b4.png" alt="Avatar">
 
-<p> Eu sou a <strong>Geovanna</strong>, tenho 17 anos e sou estudante de Informática no Instituto Federal de Educação Ciência e Tecnologia de São Paulo. Iniciei meu curso em 2019, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A parte que mais me interesso atualmente é front-end e futuramente pretendo atuar nessa área.</p>
+<p> Eu sou a <strong>Geovanna</strong>, tenho 19 anos e sou estudante de Informática no Instituto Federal de Educação Ciência e Tecnologia de São Paulo. Iniciei meu curso em 2019, desde lá venho me aprimorando na área e procurando me aprofundar cada vez mais nas linguagens de programação. A parte que mais me interesso é front-end e atualmente trabalho na Agência Estado - Grupo Estado.</p>
 
 <h3 align = "left"> 📱 Contato</h3>
 <hr>
